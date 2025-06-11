@@ -26,3 +26,4 @@ A desktop-based period tracking application that stores all data locally on your
 This project uses:
 - PyQt6 for the user interface
 - SQLite for local data storage # period_tracker
+# period_tracker
